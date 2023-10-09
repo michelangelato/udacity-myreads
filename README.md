@@ -24,6 +24,7 @@ To get started developing right away:
     │   ├── App.js # The root of the app.
     │   ├── BookCard.js # A card used to display the book.
     │   ├── BookChanger.js # Book menu that handles the shelf changing.
+    │   ├── BookDetails.js # A modal that shows book details.
     │   ├── BookList.js # List of books.
     │   ├── Header.js # The title of the App.
     │   ├── Home.js # The home page of the application that displays the list of shelf.
